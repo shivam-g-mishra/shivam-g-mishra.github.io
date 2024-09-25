@@ -17,7 +17,7 @@ const config: Config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'shivam-g-mishra', // Usually your GitHub org/user name.
   projectName: 'shivam-g-mishra.github.io', // Usually your repo name.
-  deploymentBranch: 'release',
+  deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
