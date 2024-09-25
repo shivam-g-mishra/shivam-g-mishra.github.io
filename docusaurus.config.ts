@@ -11,13 +11,13 @@ const config: Config = {
   url: 'https://shivam-g-mishra.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/shivam-g-mishra/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'shivam-g-mishra', // Usually your GitHub org/user name.
   projectName: 'shivam-g-mishra.github.io', // Usually your repo name.
-  deploymentBranch: 'gh-pages',
+  deploymentBranch: 'release',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
