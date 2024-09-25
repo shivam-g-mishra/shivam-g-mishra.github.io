@@ -3,12 +3,12 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'My blogging site',
-  tagline: 'strength and honor',
+  title: 'Welcome to my blogging website',
+  tagline: 'where coffee and code meet',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://shivam-g-mishra.github.io/',
+  url: 'https://shivam-g-mishra.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
